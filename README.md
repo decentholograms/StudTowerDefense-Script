@@ -3,7 +3,7 @@ The first script for Tower Stud Defense, i need your suggest for add, join: http
 
 # IMAGES
 
-![image](https://github.com/user-attachments/assets/df84c79e-1f21-40b3-9613-6a8816433993)
+![image](https://github.com/user-attachments/assets/01a31790-c6fc-4adc-bc2d-844fb578183b)
 
 # IMPORTANT
 
