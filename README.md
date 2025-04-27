@@ -1,5 +1,5 @@
 # DeadRails-Farm
-The first script for Tower Stud Defense, i need your suggest for add, join: https://discord.gg/2gmWShufVp
+The first script for Tower Stud Defense, i need your suggest for add, join: https://discord.gg/T57cbGDJZb
 
 # IMAGES
 
